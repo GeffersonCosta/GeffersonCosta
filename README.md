@@ -1,6 +1,6 @@
 # Olá, sou o Gefferson 👋
 
-Programador front-end em Portugal, especializado em e-commerce **Shopify** (temas Liquid, performance, integrações e apps). Gosto de web development e quero trabalhar cada vez mais na parte de código e lógica.
+Programador front-end em Portugal, especializado em e-commerce **Shopify** (temas Liquid, performance, integrações e apps).
 
 - 🏆 Campeão Nacional no **WorldSkills Portugal 2024**, Digital Game Development
 - 🎓 Análise e Desenvolvimento de Sistemas (UNINTER) · Web & Mobile Developer (CESAE Digital)
