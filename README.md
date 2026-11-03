@@ -1,4 +1,4 @@
-# Olá, sou o Gefferson 👋
+# Olá, sou o Gefferson
 
 
 Programador front-end em Portugal, especializado em e-commerce **Shopify / Shopify Plus** (temas Liquid, performance, integrações e apps).
